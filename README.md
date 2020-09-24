@@ -15,4 +15,5 @@
 |       [1차] 다트 게임       | [문제](https://programmers.co.kr/learn/courses/30/lessons/17682) | [Javascript](./Programmers/17682/solution.js) |  스택  |
 |       124 나라의 숫자       | [문제](https://programmers.co.kr/learn/courses/30/lessons/12899) | [Javascript](./Programmers/12899/solution.js) |  배열  |
 | 문자열 내 마음대로 정렬하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12915) | [Javascript](./Programmers/12915/solution.js) |  배열  |
+|          시저 암호          | [문제](https://programmers.co.kr/learn/courses/30/lessons/12926) | [Javascript](./Programmers/12926/solution.js) |  배열  |
 
