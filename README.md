@@ -1,4 +1,4 @@
-# 코딩 테스트 공부
+코딩 테스트 공부
 
 [프로그래머스 코딩 테스트](#프로그래머스)
 
@@ -16,4 +16,6 @@
 |       124 나라의 숫자       | [문제](https://programmers.co.kr/learn/courses/30/lessons/12899) | [Javascript](./Programmers/12899/solution.js) |  배열  |
 | 문자열 내 마음대로 정렬하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12915) | [Javascript](./Programmers/12915/solution.js) |  배열  |
 |          시저 암호          | [문제](https://programmers.co.kr/learn/courses/30/lessons/12926) | [Javascript](./Programmers/12926/solution.js) |  배열  |
+|          하샤드 수          | [문제](https://programmers.co.kr/learn/courses/30/lessons/12947) | [Javascript](./Programmers/12947/solution.js) | 자리합 |
+|        다음 큰 숫자         | [문제](https://programmers.co.kr/learn/courses/30/lessons/12911) | [Javascript](./Programmers/12911/solution.js) |  반복  |
 
